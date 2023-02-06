@@ -1,0 +1,33 @@
+#navBar{
+    
+}
+
+#title{
+    text-align: center; 
+    margin-top: 50px;
+    
+}
+
+#success{
+    color: white;
+    text-shadow: 0px 0px 14px #020b11;
+    background-color: rgb(2, 0, 0);
+}
+
+.carousel-inner {
+    margin-top: 50px;
+    height: 100vh; width: auto;
+}
+
+.footer{
+    padding-top: 25px;
+    margin-top: 50px;
+    width: 100vw;
+
+}
+
+#footer-pic {
+    width: 100vw;
+    overflow: hidden;
+    margin-top: 95px;
+}
