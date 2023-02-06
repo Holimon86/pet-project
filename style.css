@@ -1,5 +1,8 @@
 #navBar{
-    
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    margin-top: 10px;
+    position:relative;
 }
 
 #title{
@@ -34,7 +37,8 @@
     text-align: center;
     width: 100vw;
     overflow: hidden;
-    padding-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin-top: 800px;
     color: rgb(248, 243, 243);
     text-shadow: 0px 0px 14px #ede7e7;
