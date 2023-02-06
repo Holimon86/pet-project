@@ -1,0 +1,85 @@
+{
+	"folders": [
+		{
+			"path": "../aboutMe"
+		},
+		{
+			"path": "../basicAlgorithmsHomework"
+		},
+		{
+			"path": "../basicAlgScripting"
+		},
+		{
+			"path": "../basicDataStructures"
+		},
+		{
+			"path": "../bootStrapHomework2-4"
+		},
+		{
+			"path": "../bootstrapLessonsDay1"
+		},
+		{
+			"path": "../bootstrapWeek2Homework"
+		},
+		{
+			"path": "../css-flexbox-playlist"
+		},
+		{
+			"path": "../Debugging"
+		},
+		{
+			"path": "../es6"
+		},
+		{
+			"path": "../es6DebuggingHomework"
+		},
+		{
+			"path": "../functions"
+		},
+		{
+			"path": "../funWithVariables"
+		},
+		{
+			"path": "../javaScriptDrumKit"
+		},
+		{
+			"path": "../JS-Complete"
+		},
+		{
+			"path": "../jsModules"
+		},
+		{
+			"path": "../jsNetNinjaHomework"
+		},
+		{
+			"path": "../madLibs"
+		},
+		{
+			"path": "../netNinjaReactRedux"
+		},
+		{
+			"path": "../OOP"
+		},
+		{
+			"path": "../OOP Day 4 HomeWork"
+		},
+		{
+			"path": "../oopHomework"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../portfolio"
+		},
+		{
+			"path": "../practiceLoops"
+		},
+		{
+			"path": "../practingForLoopsHomework"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "petStoreProject"
+	}
+}
