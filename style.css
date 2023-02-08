@@ -43,11 +43,12 @@
     padding-top: 5px;
     padding-bottom: 5px;
     margin-bottom: 10px;
-    margin-top: 200px;
+    margin-top: 10px;
     color: rgb(248, 243, 243);
     text-shadow: 0px 0px 14px #ede7e7;
     background-color: rgb(2, 0, 0);
     text-decoration: underline;
+    
 }
 
 #heading2{
@@ -66,13 +67,6 @@
     font-size: 16px;
 }
 
-.card{
-    width: 600px;
-     
-    
-    
-}
-
 #textWrap1{
     float: left; 
     padding: 20px;
@@ -86,3 +80,8 @@
     width: 700px;
 }
 
+#wallBanner{
+    height: 500px;
+    width: 100vw;
+    padding-top: 50px;
+}
