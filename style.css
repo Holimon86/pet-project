@@ -48,7 +48,7 @@
     text-shadow: 0px 0px 14px #ede7e7;
     background-color: rgb(2, 0, 0);
     text-decoration: underline;
-    
+    border: 2px solid black;
 }
 
 #heading2{
@@ -78,10 +78,12 @@
     padding: 20px;
     margin-left: 10px;
     width: 700px;
+   
 }
 
 #wallBanner{
     height: 500px;
     width: 100vw;
     padding-top: 50px;
+    
 }
