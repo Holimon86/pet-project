@@ -81,9 +81,10 @@
    
 }
 
-#wallBanner{
-    height: 500px;
+#finest{
+    float: center;
     width: 100vw;
     padding-top: 50px;
+    font-size: 100px;
     
 }
