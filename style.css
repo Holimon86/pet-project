@@ -4,7 +4,7 @@
 }
 
 #navBar{
-    padding-top: 10px;f
+    padding-top: 10px;
     padding-bottom: 10px; 
     margin-top: 10px;
     margin-top: 10px;
@@ -119,4 +119,10 @@
     text-align: center;
 }
 
-
+.btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 250px;
+    width:100px;
+    
+}
