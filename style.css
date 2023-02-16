@@ -91,7 +91,10 @@
 
 .paragraph1{
     text-indent: 50px;
-    font-size: 16px;
+    font-size: 20px;
+    margin-right: 30px;
+    margin-left: 30px;
+    text-align: left;
 }
 
 #textWrap1{
@@ -131,7 +134,6 @@
     
     
 }
-
 
 
 
