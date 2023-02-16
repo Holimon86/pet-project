@@ -3,39 +3,6 @@
     
 }
 
-#navBar{
-    padding-top: 10px;
-    padding-bottom: 10px; 
-    margin-top: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    position:relative;
-    text-decoration: underline 1px;
-    width: 100vw;
-}
-
-
-
-#title{
-    text-align: center; 
-    margin-top: 50px;
-    font-size: 50px;
-    text-align: center;
-    font-family:serif;
-    font-weight: 100;
-    text-decoration: overline 1px;
-}
-
-#success{
-    font-size: 200px;
-    text-align: center;
-    font-family: serif;
-    font-weight: 300;
-    color: rgb(10, 2, 2);
-    text-shadow: 0px 0px 14px #443f3f;
-    background-color: rgb(2, 0, 0);
-}
-
 .carousel-inner {
     margin-top: 50px;
     height: 95vh; width: auto;
@@ -56,18 +23,6 @@
     background-color: rgb(2, 0, 0);
     text-decoration: underline 1px;
     border: 2px solid black;
-}
-
-#pups{
-
-    max-height: 792px; 
-    max-width: 652px;
-    min-height: 525px;
-    min-width: 496px;
-    margin: 460px;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    float:center;
 }
 
 .heading{
@@ -97,26 +52,6 @@
     text-align: left;
 }
 
-#textWrap1{
-    float:left; 
-    padding: 20px;
-    margin-right: 10px;
-}
-
-#textWrap2{
-    float:right;
-    padding: 20px;
-    margin-right: 10px;  
-}
-
-#happy1{
-    float:right; 
-    padding: 20px;
-    margin-left: 10px;
-    width: 640px;
-   
-}
-
 .thoroughbredImages{
     margin-top: 100px;
 
@@ -135,5 +70,68 @@
     
 }
 
+.contactUs{
+    margin-top: 150px;
+}
 
+/*.row{
+    width: 25vw;
+    margin-top: 150px;
+    margin-left: 500px;
 
+}*/
+
+#happy1{
+    float:right; 
+    padding: 20px;
+    margin-left: 10px;
+    width: 640px;
+   
+}
+
+#pups{
+width: 590px;
+ margin-left: 70px;  
+}
+
+#navBar{
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    margin-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position:relative;
+    text-decoration: underline 1px;
+    width: 100vw;
+}
+
+#title{
+    text-align: center; 
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    font-family:serif;
+    font-weight: 100;
+    text-decoration: overline 1px;
+}
+
+#success{
+    font-size: 200px;
+    text-align: center;
+    font-family: serif;
+    font-weight: 300;
+    color: rgb(10, 2, 2);
+    text-shadow: 0px 0px 14px #443f3f;
+    background-color: rgb(2, 0, 0);
+}
+
+#textWrap1{
+    float:left; 
+    padding: 20px;
+    margin-right: 10px;
+}
+#textWrap2{
+    float:right;
+    padding: 20px;
+    margin-right: 10px;  
+}
