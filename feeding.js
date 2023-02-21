@@ -1,7 +1,7 @@
 var feeding =[
     {
         title: "One Week Raw Food Prep",
-        image: "./images/rawFoodTwoDish.jpeg",
+        image: "./images/RawFoodDietLarge.webp",
         price: 420.00,
     },
     {
@@ -32,11 +32,14 @@ var feeding =[
 ]
 var postHTML = " "
 for (var i=0; i < feeding.length; i++){
-    var heading = "<div class='feeding'><span><h3>" + feeding[i].title + "</h3>"
-    var image = '<img src="' + feeding[i].image + '"/'
+    var heading = "<div class='feeding col-lg-4'><span><h3>" + feeding[i].title + "</h3>"
+    var image = '<img src="' + feeding[i].image + ' " style="width: 18rem; height: 250px;"/>'
     var price = "<p> $" + feeding[i].price + "</p></span>"
-    var concatThis = heading + image + price 
+    var description = '<div class="success mb-5"><button>Add to Cart</button></div></div>'
+    var concatThis = heading + image + price + description
     postHTML = postHTML + concatThis
 }
 document.getElementById("feeding").innerHTML = postHTML
+
+"<h4>" + shop[i].title + "</h4>"
 
