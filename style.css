@@ -54,12 +54,13 @@
 
 .thoroughbredImages{
     margin-top: 100px;
-
+    
  
 }
 
 .cardTitle{
     text-align: center;
+    border: 2px black solid;
 }
 
 .btn{
@@ -71,7 +72,7 @@
 }
 
 .contactUs{
-    margin-top: 150px;
+    margin-top: 110px;
 }
 
 /*.row{
@@ -80,6 +81,7 @@
     margin-left: 500px;
 
 }*/
+
 
 #happy1{
     float:right; 
@@ -135,3 +137,4 @@ width: 590px;
     padding: 20px;
     margin-right: 10px;  
 }
+
