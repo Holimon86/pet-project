@@ -6,7 +6,7 @@ var feeding =[
     },
     {
         title: "One Month Raw Food Prep",
-        image: "./images/rawFoodPrepTin.jpeg",
+        image: "./images/barfMealPrep.jpeg",
         price: 1500.00,
     },
     {
